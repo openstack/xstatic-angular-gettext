@@ -1,5 +1,5 @@
 XStatic-Angular-Gettext
---------------
+-----------------------
 
 Angular-Gettext javascript library packaged for setuptools (easy_install) / pip.
 
